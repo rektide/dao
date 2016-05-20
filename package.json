@@ -1,0 +1,16 @@
+{
+	"name": "dao",
+	"version": "1.0.0",
+	"description": "",
+	"main": "dao.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://archive.voodoowarez.com/dao"
+	},
+	"keywords": ["dice", "cron"],
+	"author": "rektide de la faye",
+	"license": "X"
+}
